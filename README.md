@@ -17,6 +17,7 @@ My LeetCode problem solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,4 +42,12 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
