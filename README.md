@@ -25,4 +25,20 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
