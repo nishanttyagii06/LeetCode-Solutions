@@ -7,6 +7,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,9 +50,18 @@ My LeetCode problem solutions
 ## Two Pointers
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
