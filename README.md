@@ -19,6 +19,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -55,6 +56,7 @@ My LeetCode problem solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
@@ -69,4 +71,20 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishanttyagii06/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
